@@ -112,18 +112,18 @@
       "longitud": -78.6125,
       "precio": "$25",
       "rating": 4.9
-    }
+    },
     {
-    "id":110,
-    "categoría":"deporte extremo",
-    "nombre":"Trip",
-    "descripcion":"TRIP Deportes de Aventura en Riobamba es el paraíso definitivo para escaladores y amantes de la montaña",
-    "imagen":"https://github.com/ALEJANDROTH/api-riobamba/blob/main/trip_rio.jpg",
-     "direccion":"España 1644, Riobamba",
-    "latitud":"-1.6749313960776342",
-    "longitud":"-78.65353992460577",
-      "precio":"10$",
-      "rating":"4.5",
+      "id": 110,
+      "categoria": "deporte extremo",
+      "nombre": "Trip",
+      "descripcion": "TRIP Deportes de Aventura en Riobamba es el paraíso definitivo para escaladores y amantes de la montaña",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/trip_rio.jpg",
+      "direccion": "España 1644, Riobamba",
+      "latitud": -1.6749,
+      "longitud": -78.6535,
+      "precio": "10$",
+      "rating": 4.5
     }
   ]
 }
