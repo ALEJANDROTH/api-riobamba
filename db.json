@@ -50,7 +50,7 @@
       "longitud": -78.6499,
       "precio": "$70",
       "rating": 4.8,
-      "servicios": ["WiFi gratis", "Desayuno incluido", "Spa y Masajes"]
+      "servicios": ["WiFi gratis", "Desayuno incluido", "Spa"]
     },
     {
       "id": 105,
@@ -63,7 +63,7 @@
       "longitud": -78.6558,
       "precio": "$65",
       "rating": 4.9,
-      "servicios": ["WiFi gratis", "Piscina climatizada", "Desayuno buffet", "Gimnasio"]
+      "servicios": ["WiFi gratis", "Piscina climatizada", "Gimnasio"]
     },
     {
       "id": 106,
@@ -105,7 +105,7 @@
       "id": 109,
       "categoria": "deporte extremo",
       "nombre": "Rapel Río",
-      "descripcion": "Adrenalina pura descendiendo por cascadas naturales.",
+      "descripcion": "Desafía tus límites con el descenso en cascadas.",
       "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/rapel_rio.jpg",
       "direccion": "Cercanías de Riobamba",
       "latitud": -1.7012,
@@ -114,5 +114,4 @@
       "rating": 4.9
     }
   ]
-}
 }
