@@ -1,0 +1,112 @@
+{
+  "lugares": [
+    {
+      "id": 101,
+      "categoria": "hotel",
+      "nombre": "Wanderlot",
+      "descripcion": "Un refugio acogedor con vistas espectaculares de la ciudad.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/wanderlot.jpg",
+      "direccion": "Riobamba, Ecuador",
+      "latitud": -1.6732,
+      "longitud": -78.6483,
+      "precio": "$60",
+      "rating": 4.7
+    },
+    {
+      "id": 102,
+      "categoria": "hotel",
+      "nombre": "Asher Hospedaje",
+      "descripcion": "Elegancia y confort para un descanso reparador.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/asher_hospedaje.jpg",
+      "direccion": "Centro de Riobamba",
+      "latitud": -1.6698,
+      "longitud": -78.6512,
+      "precio": "$45",
+      "rating": 4.5
+    },
+    {
+      "id": 103,
+      "categoria": "hotel",
+      "nombre": "Villa Bonita",
+      "descripcion": "Hospedaje familiar rodeado de tranquilidad.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/villa_bonita.jpg",
+      "direccion": "Sector Residencial",
+      "latitud": -1.6621,
+      "longitud": -78.6605,
+      "precio": "$55",
+      "rating": 4.6
+    },
+    {
+      "id": 104,
+      "categoria": "hotel",
+      "nombre": "Casa de Mármol",
+      "descripcion": "Arquitectura moderna y servicios exclusivos.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/casa_de_marmol.jpg",
+      "direccion": "Riobamba Norte",
+      "latitud": -1.6543,
+      "longitud": -78.6499,
+      "precio": "$70",
+      "rating": 4.8
+    },
+    {
+      "id": 105,
+      "categoria": "hotel",
+      "nombre": "Quindeloma Art",
+      "descripcion": "Un espacio donde el arte y el descanso se encuentran.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/quindeloma_art.jpg",
+      "direccion": "Loma de Quito",
+      "latitud": -1.6655,
+      "longitud": -78.6558,
+      "precio": "$65",
+      "rating": 4.9
+    },
+    {
+      "id": 106,
+      "categoria": "paisaje",
+      "nombre": "Desierto de Palmira",
+      "descripcion": "Dunas de arena únicas en los Andes ecuatorianos.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/desierto_de_palmira.jpg",
+      "direccion": "Palmira, Chimborazo",
+      "latitud": -2.0833,
+      "longitud": -78.7500,
+      "precio": "Gratis",
+      "rating": 5.0
+    },
+    {
+      "id": 107,
+      "categoria": "paisaje",
+      "nombre": "Ruta Tulabug",
+      "descripcion": "Senderos naturales con vistas al volcán.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/ruta_tulabug.jpg",
+      "direccion": "Guano",
+      "latitud": -1.6123,
+      "longitud": -78.6214,
+      "precio": "Gratis",
+      "rating": 4.8
+    },
+    {
+      "id": 108,
+      "categoria": "restaurante",
+      "nombre": "Peccato Trattoria",
+      "descripcion": "Sabores auténticos de la cocina italiana.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/peccato_trattoria.jpg",
+      "direccion": "Av. Daniel León Borja",
+      "latitud": -1.6710,
+      "longitud": -78.6530,
+      "precio": "$20",
+      "rating": 4.7
+    },
+    {
+      "id": 109,
+      "categoria": "deporte extremo",
+      "nombre": "Rapel Río",
+      "descripcion": "Desafía tus límites con el descenso en cascadas.",
+      "imagen": "https://raw.githubusercontent.com/ALEJANDROTH/api-riobamba/main/rapel_rio.jpg",
+      "direccion": "Cercanías de Riobamba",
+      "latitud": -1.7012,
+      "longitud": -78.6125,
+      "precio": "$25",
+      "rating": 4.9
+    }
+  ]
+}
